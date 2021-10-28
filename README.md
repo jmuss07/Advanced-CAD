@@ -16,6 +16,17 @@ Click [here](https://cvilleschools.onshape.com/documents/dc727e7d4f763fb4b778dcc
 
 ### Image
 
+An angled view of the whole skateboard...
+
+![An angled view of the whole skateboard...](https://github.com/jmuss07/Advanced-CAD/blob/main/Images/Skateboard.PNG?raw=true)
+
+...A bottom view of the skateboard, including the bottom of the deck, trucks, axels, bearings, and wheels...
+
+![...A bottom view of the skateboard, including the bottom of thje deck, trucks, axels, bearings, and wheels...](https://github.com/jmuss07/Advanced-CAD/blob/main/Images/Skateboard%20Bottom.PNG?raw=true)
+
+...And a closeup of the wheels, axels, bearings, and trucks!
+
+![...And a closeup of the wheels, axels, bearings, and trucks!](https://github.com/jmuss07/Advanced-CAD/blob/main/Images/Skateboard%20Wheels,%20Axel,%20And%20Truck.PNG?raw=true)
 
 ### Reflection
 
