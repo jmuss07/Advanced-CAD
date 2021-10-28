@@ -37,17 +37,25 @@ The majority of this assignment used skills that I had learned and practiced in 
 ## How_The_Pros_Do_It
 
 ### Description
-
+This assignment was to make a simple 2x4 lego in Onshape. It was later made more complicated in the assignment "One Brick to Rule Them All", which is featured later in this repository!
 
 
 ### Link
 
-
+Click [here](https://cvilleschools.onshape.com/documents/45f87d107ff86c843782d028/w/50eb9685ba30fbbc0e011306/e/7fed8fa2b6a16d5736db4532?configuration=List_9RdGb24eCZXoTh%3DDefault%3BList_h3Pb3NfZcuv6LR%3DDefault%3BList_qRzzpIn7kjCGkC%3DYellow&renderMode=0&uiState=617aaebecde5a549b793b949) to see the lego on Onshape!
 
 ### Image
+An angled view of the whole lego...
+
+![An angled view of the whole lego...](https://github.com/jmuss07/Advanced-CAD/blob/main/Images/Lego.PNG?raw=true)
+
+...And a view of the bottom of the lego!
+
+![...And a view of the bottom of the lego!](https://github.com/jmuss07/Advanced-CAD/blob/main/Images/Lego%20Bottom.PNG?raw=true)
 
 
-### Reflection
+### Reflection 
+This one went fairly smoothly! Aside from the usual sketch and extrude tools, the lego used the "Shell" and "Linear Pattern" tools. It was also a great introduction to variables in Onshape, something that I hadn't used before. Variables allow you to have a changeable value for things like side length and angle values in Onshape(A variable that's been created starts with a hashtag(#)). In this assignment, three variables were created, with one controlling the height of the brick (represented by "#height"), one controlling the number of rows on the brick(represented by "#rows"), and the other representing the number of columns(Represented by "#cols"). This feature was utilised to create the bumps on the top of the brick, and was used again to create the connector pieces at the bottom of the lego! For the bottom to have the proper number of connector pieces inside the shell (on an actual lego, it has one less connector row than the bumps on the top, and one less connector column than the number of columns on the top), I made a linear pattern with the number of horizontal repeats listed as "#rows-1" and the number of vertical repeats listed as "#cols-1." I'm glad that I learned to use this feature, since it seems like it will be extremely helpful in the future.
 
 ---
 
@@ -59,7 +67,7 @@ The majority of this assignment used skills that I had learned and practiced in 
 
 ### Link
 
-
+Click [here](https://cvilleschools.onshape.com/documents/45f87d107ff86c843782d028/w/50eb9685ba30fbbc0e011306/e/7fed8fa2b6a16d5736db4532?configuration=List_9RdGb24eCZXoTh%3DDefault%3BList_h3Pb3NfZcuv6LR%3DDefault%3BList_qRzzpIn7kjCGkC%3DYellow&renderMode=0&uiState=617aaebecde5a549b793b949) to see the lego on Onshape!
 
 ### Image
 
