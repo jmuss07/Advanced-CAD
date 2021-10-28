@@ -85,6 +85,7 @@ The configurations used...
 ![...A 2x4 plate made using configurations...](https://github.com/jmuss07/Advanced-CAD/blob/main/Images/2x4%20plate.PNG?raw=true)
 
 ...A top and bottom view of a 1x4 tile made using configurations...
+
 ![...A top and bottom view of a 1x4 tile made using configurations...](https://github.com/jmuss07/Advanced-CAD/blob/main/Images/1x4%20tile%20top.PNG?raw=true)
 ![...A top and bottom view of a 1x4 tile made using configurations...](https://github.com/jmuss07/Advanced-CAD/blob/main/Images/1x4%20tile%20bottom.PNG?raw=true)
 
