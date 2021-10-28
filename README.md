@@ -29,6 +29,7 @@ An angled view of the whole skateboard...
 ![...And a closeup of the wheels, axels, bearings, and trucks!](https://github.com/jmuss07/Advanced-CAD/blob/main/Images/Skateboard%20Wheels,%20Axel,%20And%20Truck.PNG?raw=true)
 
 ### Reflection
+The majority of this assignment used skills that I had learned and practiced in Onshape in previous classes. However, the instructions that went along with the assignment showed new strategies and tools that can be used in part studios. For instance, in order to create the iconic angled ends of the skateboard, I used the tool "Move Face", a tool whioch I had never heard of or used before! It's a fairly simple tool to use, you just select a closed off shape/face of a part, and you can choose the "rotate" setting, which, when changing the angle, changes the bend in a part! For the assembly, I used only "Fastened" mate connectors, which I *had* used before.
 
 
 ---
