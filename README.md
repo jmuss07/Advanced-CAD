@@ -62,7 +62,7 @@ This one went fairly smoothly! Aside from the usual sketch and extrude tools, th
 ## One_Brick_To_Rule_Them_All
 
 ### Description
-
+In this assignment, we built up on what we had made in the previous assignment. We used configurations on our legos from the previous assignment in ordedr to have just one brick that can be changed into many different bricks in the assembly!
 
 
 ### Link
@@ -71,8 +71,28 @@ Click [here](https://cvilleschools.onshape.com/documents/45f87d107ff86c843782d02
 
 ### Image
 
+The configurations used...
+
+![The configurations used...](https://github.com/jmuss07/Advanced-CAD/blob/main/Images/Configurations1.PNG?raw=true)
+![The configurations used...](https://github.com/jmuss07/Advanced-CAD/blob/main/Images/Configurations2.PNG?raw=true)
+
+...A 1x1 brick made using configurations...
+
+![...A 1x1 brick made using configurations...](https://github.com/jmuss07/Advanced-CAD/blob/main/Images/1x1%20Brick.PNG?raw=true)
+
+...A 2x4 plate made using configurations...
+
+![...A 2x4 plate made using configurations...](https://github.com/jmuss07/Advanced-CAD/blob/main/Images/2x4%20plate.PNG?raw=true)
+
+...A top and bottom view of a 1x4 tile made using configurations...
+![...A top and bottom view of a 1x4 tile made using configurations...](https://github.com/jmuss07/Advanced-CAD/blob/main/Images/1x4%20tile%20top.PNG?raw=true)
+![...A top and bottom view of a 1x4 tile made using configurations...](https://github.com/jmuss07/Advanced-CAD/blob/main/Images/1x4%20tile%20bottom.PNG?raw=true)
+
+...And an assembly of a lego duck made using configurations!
+
+![...And an assembly of a lego duck made using configurations!](https://github.com/jmuss07/Advanced-CAD/blob/main/Images/Lego%20Duck.PNG?raw=true)
+
 
 ### Reflection
-
-
+This was a trickier assignment. I had never used configurations before, so I read through the assignment page's description of them before starting. Essentially, configurations allow you to make multiple versions of the same part in one part studio that you can switch between easily, and are super helpful for making parts that are relatively uniform with smaller ddifferences.There's a whole section in an Onshape parts studio that allows you to see and create new configurations! In order to make configurations, you simply need to open the Configurations tab in your parts studio, and select the different values that you want to control with your configurations. From there, you can simply change the value in you configurations table, and volila! You can now easily shidt through different versions of the same part without a bunch of different sketches and part studios! When making configurations, variables come in handy so that you can change just one value, and the rest of the related values will change along with it, so that you don't have to click through and create configurations for every related value!
 
