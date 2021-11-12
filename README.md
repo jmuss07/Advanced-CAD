@@ -4,6 +4,8 @@
 * [The Skateboard (2.1-2.5)](#The_Skateboard)
 * [How The Pros Do It (3.1)](#How_The_Pros_Do_It)
 * [One_Brick_To_Rule_Them All (3.2)](#One_Brick_To_Rule_Them_All)
+* [The Multi-Tool](#The_Multi-Tool)
+
 
 
 ## The_Skateboard
@@ -95,5 +97,31 @@ The configurations used...
 
 
 ### Reflection
-This was a trickier assignment. I had never used configurations before, so I read through the assignment page's description of them before starting. Essentially, configurations allow you to make multiple versions of the same part in one part studio that you can switch between easily, and are super helpful for making parts that are relatively uniform with smaller ddifferences.There's a whole section in an Onshape parts studio that allows you to see and create new configurations! In order to make configurations, you simply need to open the Configurations tab in your parts studio, and select the different values that you want to control with your configurations. From there, you can simply change the value in you configurations table, and volila! You can now easily shidt through different versions of the same part without a bunch of different sketches and part studios! When making configurations, variables come in handy so that you can change just one value, and the rest of the related values will change along with it, so that you don't have to click through and create configurations for every related value!
+This was a trickier assignment. I had never used configurations before, so I read through the assignment page's description of them before starting. Essentially, configurations allow you to make multiple versions of the same part in one part studio that you can switch between easily, and are super helpful for making parts that are relatively uniform with smaller ddifferences.There's a whole section in an Onshape parts studio that allows you to see and create new configurations! In order to make configurations, you simply need to open the Configurations tab in your parts studio, and select the different values that you want to control with your configurations. From there, you can simply change the value in you configurations table, and volila! You can now easily shift through different versions of the same part without a bunch of different sketches and part studios! When making configurations, variables come in handy so that you can change just one value, and the rest of the related values will change along with it, so that you don't have to click through and create configurations for every related value!
 
+## The_Multi-Tool
+
+### Description
+This assignment was to make a multii-tool (one tool containing multiple other tools) in Onshape! This multitool contains a wrench, a protractor, a square, and a ruler for both centimeters and inches!
+
+
+### Link
+
+Click [here](https://cvilleschools.onshape.com/documents/587ae0e2e387d25ff1283f05/w/cd0b468ac974756547957f0f/e/aef42fcf9d4cbcbc230a41b6?renderMode=0&uiState=618e81d517b57175402dcb3e) to see the multi-tool on Onshape!
+
+### Image
+The multi-tool in Onshape...
+
+![The multi-tool in Onshape...](https://github.com/jmuss07/Advanced-CAD/blob/main/Images/multitool.PNG?raw=true)
+
+...The Onshape drawing...
+
+![...The Onshape drawing...](https://github.com/jmuss07/Advanced-CAD/blob/main/Images/multitool%20drawing.PNG?raw=true)
+
+...And the multi-tool all cut out!
+
+![...And the multi-tool all cut out!](https://github.com/jmuss07/Advanced-CAD/blob/main/Images/Josie%20Multi-Tool.jpg?raw=true)
+
+
+### Reflection 
+This project also went pretty well! Aside from the usual sketch and extrude tools, the multi-tool made use of multiple construction lines and patterns. It was mostly confined to two sketches, with one sketch serving as the base shape for the tool. To get the curve of the protractor, I used the 3-point arc tool. For the holes, I used a linear pattern. I originally tried to model one hole in a new sketch, extrude-remove it, and then make a linear part pattern of it for the other holes, but that was unsuccesful. Instead of just patterning the hole like I wanted, it patterned the whole multitool. I went back to the sketch with every intention to just create and distance the other holes by hand. As I was about to start this process, I saw the linear pattern tool within the sketch. The in-sketch version of this tool patterns just specific features, all confined to the specific sketch. I gave this tool a shot in the sketch with the original hole. It was extremely successful, and I was then able to just extrude-remove all the holes at once. This worked wonderfully for the inch and centimeter marker holes. For the degree holes for the protractor holes, though, this method didn't work. Instead, I measured out three construction lines from the corner of the multi-tool. Each line was a certain number of degrees that would be needed for a protractor (In this case, I used 30°, 45°, and 60°), and centered each circle on the proper line, using the dimension tool to get the proper size and spacing from the edge.
